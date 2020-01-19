@@ -1,0 +1,5 @@
+/node_modules/
+/.serverless/
+/upload
+/.nyc_output
+/.idea
